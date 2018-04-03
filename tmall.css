@@ -151,7 +151,7 @@
 		/* display: none; */
 		background-color: rgba(0, 0, 0, 0.5);
 		position: absolute;
-		right:35px;
+		left:-120px;
 		top: 0;
         color: white;
         display: none;
